@@ -6,7 +6,7 @@ p,h1{
     font-family:cursive;
     font-size:36px;
     color: aliceblue;
-    text-shadow: 0px 0px 5px whitesmoke;
+    text-shadow: 0px 0px 5px rgb(75, 96, 255);
 }
 .container{
     display:flex;
@@ -30,22 +30,22 @@ flex 0.7s cubic-bezier(0.61, -0.19, 0.7, 0.11);
 transform 0.5s,
 }
 .panel1{
-background-image: url(/1379545.jpg);
+background-image:url('wael-hneini-lMzbYcCsIpo-unsplash.jpg');
 background-repeat: no-repeat;
 background-size: cover;
 }
 .panel2{
-    background-image: url(/19800.jpg);
+    background-image: url(/brecht-denil-rxkPqSM2xZY-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .panel3{
-    background-image: url(23277.jpg);
+    background-image: url(/jp-valery-blOLCO2K4M0-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .panel4{
-    background-image: url(/1200px-Leaning_Tower_of_Pisa_\(April_2012\).jpg);
+    background-image: url(/matthew-kerslake-BpH--upRlCs-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
